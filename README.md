@@ -60,7 +60,12 @@ Este proyecto demuestra el poder de Tableau como herramienta de visualización p
 [Visualización interactiva en Tableau Public](https://public.tableau.com/views/AnlisisdeSupertienda_17087298188980/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Autor
-Proyecto desarrollado por [Tu Nombre].
+
+Este proyecto fue elaborado por: José Daniel Rivera Hernández. (<Daniel.rivera.30@outlook.com>)
+
+---
+
+¡Saludos! 🚀
 
 
 # Global_Superstore-Project
