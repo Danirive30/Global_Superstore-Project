@@ -59,14 +59,6 @@ Este proyecto demuestra el poder de Tableau como herramienta de visualización p
 ## Enlace al Proyecto en Tableau Public
 [Visualización interactiva en Tableau Public](https://public.tableau.com/views/AnlisisdeSupertienda_17087298188980/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Alternativas a Tableau
-Además de Tableau, se investigaron otras herramientas para la visualización de datos:
-1. **Looker Studio:** Plataforma de Google que permite conectar múltiples fuentes de datos y crear dashboards interactivos.
-2. **Qlik Sense:** Herramienta avanzada para análisis de datos y visualizaciones personalizadas.
-
-## Capturas de Pantalla
-*(Incluir capturas de tus gráficos aquí para que el lector visualice los resultados).*
-
 ## Autor
 Proyecto desarrollado por [Tu Nombre].
 
