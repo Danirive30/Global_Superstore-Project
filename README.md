@@ -1,4 +1,4 @@
-# Proyecto de Análisis y Visualización de Ventas con Tableau
+# Análisis y Visualización de Ventas con Tableau
 
 Este proyecto utiliza Tableau para analizar y visualizar datos de ventas de una supertienda. El objetivo principal fue crear reportes interactivos que permitieran extraer información valiosa para la toma de decisiones estratégicas. 
 
