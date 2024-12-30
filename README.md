@@ -57,7 +57,7 @@ Se integraron los gráficos generados en dashboards interactivos que proporciona
 Este proyecto demuestra el poder de Tableau como herramienta de visualización para transformar datos en conocimiento útil. Los insights generados proporcionan una base sólida para decisiones empresariales estratégicas.
 
 ## Enlace al Proyecto en Tableau Public
-[Visualización interactiva en Tableau Public](https://public.tableau.com/views/Prueba_Tableau_17074473537080/Hoja1)
+[Visualización interactiva en Tableau Public](https://public.tableau.com/views/AnlisisdeSupertienda_17087298188980/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Alternativas a Tableau
 Además de Tableau, se investigaron otras herramientas para la visualización de datos:
